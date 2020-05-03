@@ -1,0 +1,22 @@
+# pack-refs with: peeled fully-peeled sorted 
+298e1b639967c691acdccaefdfb9656563ce8a20 refs/remotes/origin/master
+83265f08c1acdbecf9dfe48d68a796d080edb057 refs/tags/1.4.1.RELEASE
+9f78ee9367e5d1c2477c5c85d6ec3d2cfa9a106b refs/tags/1.4.2.RELEASE
+e55072776503a3932c5b51f5d6e007cc0334625d refs/tags/1.4.3.RELEASE
+e30f827c4da55fbe0bd29d555192c4ae8414b297 refs/tags/1.5.1.RELEASE
+ed22797675788fcf30f9910c3a7294c8d2433268 refs/tags/1.5.10.RELEASE
+ce6dc76ecead66c970dbca75d3b1e42bd1bade58 refs/tags/1.5.2.RELEASE
+fbe74b128432fdd3b2df65b1530dcb4ce0b14863 refs/tags/1.5.5.RELEASE
+87bbb12d38cd083c94504b21bdda65c89c04a660 refs/tags/1.5.9.RELEASE
+97f1542a88f8d0f669972eff44e53119460a1634 refs/tags/2.0.0.RELEASE
+31b21222af455f7cdd44ce9c06339f9fca72d8d1 refs/tags/2.0.1.RELEASE
+ac422b780c97bedcb81b42d5a3ebd572302e1c77 refs/tags/2.0.2.RELEASE
+833ae95541dd5b4dd924274ba00589eca40aca28 refs/tags/2.0.3.RELEASE
+5706c3f34dd26f81b6bb5b45fd6fd3538d8582ae refs/tags/2.0.5.RELEASE
+e19c07c3eec9b3d068db925752567882bea381be refs/tags/2.0.8.RELEASE
+68d6913d178d6bf9cd01a03f454ece0611261714 refs/tags/2.1.3.RELEASE
+7d403e1ed3190432675da5df01d5fc4aea1af254 refs/tags/2.1.4.RELEASE
+431c284db83b40750e5dda799407be1f947371e4 refs/tags/2.1.6.RELEASE
+87bbb12d38cd083c94504b21bdda65c89c04a660 refs/tags/edgware.release
+ed22797675788fcf30f9910c3a7294c8d2433268 refs/tags/edgware.sr2
+8958ec7ba2a768d4f9e30c4a80ee3ea892414bac refs/tags/finchley.sr2
